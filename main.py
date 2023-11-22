@@ -1,2 +1,2 @@
 while True:
-    print("жопа")
+    print("jopa")
